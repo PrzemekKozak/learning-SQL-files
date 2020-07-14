@@ -1,6 +1,6 @@
 SELECT 
     Code, Name
 FROM
-     world.country
+    world.country
 WHERE
     Continent = 'Europe'; 

@@ -1,5 +1,8 @@
-# Basics 
-Basic knowledge of SQL - exercises.
+## Basic knowledge of SQL - exercises.
+
+> Use database "word" with tables:
+* country - columns: Code, Name, Continent, Region, SurfaceArea, IndepYear, Population, LifeExpectancy, LocalName, GovernmentForm, HeadOfState, Capital
+* countrylanguage - columns: CountryCode, Language, IsOfficial, Percentage
 
 1. Display all information about countries starting with "Po".
 2. Display the abbreviation and name of the country that are in Europe.
