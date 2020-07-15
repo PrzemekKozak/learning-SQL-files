@@ -3,4 +3,4 @@ SELECT
 FROM
     northwind.products
 WHERE
-    minimum_reorder_quantity IS NOT NULL;
+    supplier_ids IN (4 , 6, 7);
