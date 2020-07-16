@@ -1,5 +1,5 @@
 SELECT 
-    product_code, product_name, category
+    product_code, product_name
 FROM
     northwind.products
 WHERE
