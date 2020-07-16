@@ -1,5 +1,5 @@
 SELECT DISTINCT
-    category
+    category 
 FROM
-    products
+    products 
 ORDER BY category DESC;

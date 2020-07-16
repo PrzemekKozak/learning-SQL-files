@@ -1,5 +1,5 @@
 SELECT 
-    ship_city AS Miasto,
+    ship_city AS Miasto, 
     ship_address AS Adres_Dostawy,
     shipping_fee AS Oplata_Przewoz
 FROM

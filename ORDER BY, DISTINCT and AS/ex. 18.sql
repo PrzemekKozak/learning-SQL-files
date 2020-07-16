@@ -1,4 +1,4 @@
 SELECT DISTINCT
-    job_title
+    job_title 
 FROM
-    northwind.customers;
+	northwind.customers;

@@ -14,4 +14,4 @@
 
 > *AS*
 20. Present a report for the management, which will contain the following columns: "Imie_Pracownika", "Nazwisko_Pracowanika", "Miasto". Include only Seattle employees on the report.
-21. Present a report to the supervisor, which will include "Miasto", "Adres_Dostawy" and "Oplata_Przewoz" for the transport of the order, whose transport fee is between 19.1256 and 78.1999.
+21. Present a report to the supervisor, which will include "Miasto", "Adres_Dostawy" and "Oplata_Za_Przewoz" for the transport of the order, whose transport fee is between 19.1256 and 78.1999.

@@ -1,5 +1,5 @@
 SELECT 
     *
 FROM
-    northwind.products
+	northwind.products
 ORDER BY standard_cost ASC;

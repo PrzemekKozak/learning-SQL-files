@@ -6,7 +6,7 @@
 2. Display the code and name of all products.
 3. Display all supplier address details.
 4. Display all data about employees who live in Redmond.
-5. Display the code and name of all products that do not belong to the category: Beverages.
+5. Display the code and name of all products that do not belong to the category Beverages.
 6. Display all product data with a cost greater than 12.0000.
 7. Display the city, delivery address, and ordering fee whose shipping fee is between 20.0000 and 78.1223.
 8. Display all product information that has a specified minimum order quantity.
