@@ -3,4 +3,4 @@ SELECT
 FROM
     northwind.orders
 RIGHT JOIN
-    northwind.employees ON orders.employee_id = employees.id;
+    northwind.employees ON orders.employee_id=employees.id;

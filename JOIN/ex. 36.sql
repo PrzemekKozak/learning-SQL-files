@@ -1,4 +1,5 @@
 SELECT 
+	invoices.id AS 'ID faktury',
     invoices.invoice_date AS 'Data faktury',
     orders.paid_date AS 'Data platności'
 FROM
